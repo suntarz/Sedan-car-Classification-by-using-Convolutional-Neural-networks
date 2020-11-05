@@ -1,0 +1,2 @@
+# Sedan-car-Classification-by-using-Convolutional-Neural-networks
+Study to do Classification by using Convolutional Neural networks to get a model that can be used effectively. In thesis, a classification by using a dataset that depicts a sedan with an all-round view. In this thesis, 23 sedan models (23 classes) will be used, selected from the number of vehicles available on the road. We conclude that the model is discriminative and capable of generalizing the patterns of the vehicle type classiﬁcation task.
